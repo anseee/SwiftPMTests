@@ -4,7 +4,7 @@ public struct LeviPM {
     public init() {
     }
     
-    func callTestPrint() {
+    public func callTestPrint() {
         print(text)
     }
 }
